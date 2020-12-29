@@ -1,0 +1,4 @@
+com\example\redis\managementService.class
+com\example\redis\userRepo.class
+com\example\redis\UserController.class
+com\example\redis\User.class
